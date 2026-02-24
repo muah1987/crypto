@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2026-02-23T23:35:14.792906",
+    "notification_type": "permission_prompt",
+    "title": "",
+    "permission_mode": "unknown",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "message": "Claude needs your permission to use Bash",
+    "cwd": "/home/mohammed/crypto-repo",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "hook_event_name": "Notification",
+    "_raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "hook_event_name": "Notification",
+      "message": "Claude needs your permission to use Bash",
+      "notification_type": "permission_prompt"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:38:53.867372",
+    "notification_type": "permission_prompt",
+    "title": "",
+    "permission_mode": "unknown",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "message": "Claude Code needs your attention",
+    "cwd": "/home/mohammed/crypto-repo",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "hook_event_name": "Notification",
+    "_raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "hook_event_name": "Notification",
+      "message": "Claude Code needs your attention",
+      "notification_type": "permission_prompt"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:40:42.600993",
+    "notification_type": "permission_prompt",
+    "title": "",
+    "permission_mode": "unknown",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "message": "Claude Code needs your approval for the plan",
+    "cwd": "/home/mohammed/crypto-repo",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "hook_event_name": "Notification",
+    "_raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "hook_event_name": "Notification",
+      "message": "Claude Code needs your approval for the plan",
+      "notification_type": "permission_prompt"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:41:26.059837",
+    "notification_type": "permission_prompt",
+    "title": "",
+    "permission_mode": "unknown",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "message": "Claude needs your permission to use Bash",
+    "cwd": "/home/mohammed/crypto-repo",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "hook_event_name": "Notification",
+    "_raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "hook_event_name": "Notification",
+      "message": "Claude needs your permission to use Bash",
+      "notification_type": "permission_prompt"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:42:49.684611",
+    "notification_type": "idle_prompt",
+    "title": "",
+    "permission_mode": "unknown",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "message": "Claude is waiting for your input",
+    "cwd": "/home/mohammed/crypto-repo",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "hook_event_name": "Notification",
+    "_raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "hook_event_name": "Notification",
+      "message": "Claude is waiting for your input",
+      "notification_type": "idle_prompt"
+    }
+  }
+]

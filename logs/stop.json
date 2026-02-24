@@ -1,0 +1,32 @@
+[
+  {
+    "hook_event_name": "Stop",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "stop_hook_active": false,
+    "prevent_stop_enabled": false,
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "acceptEdits",
+      "hook_event_name": "Stop",
+      "stop_hook_active": false
+    }
+  },
+  {
+    "hook_event_name": "Stop",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "stop_hook_active": false,
+    "prevent_stop_enabled": false,
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "acceptEdits",
+      "hook_event_name": "Stop",
+      "stop_hook_active": false
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-02-23T22:36:33.946688+00:00",
+    "event": "SubagentStop",
+    "rules_matched": 1,
+    "results": [
+      {
+        "rule": "auto-next-task",
+        "action": "suggest_next",
+        "suggestion": "Subagent finished. Check the task list for newly unblocked tasks and deploy the next builder if available."
+      }
+    ],
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-23T22:38:13.511879+00:00",
+    "event": "SubagentStop",
+    "rules_matched": 1,
+    "results": [
+      {
+        "rule": "auto-next-task",
+        "action": "suggest_next",
+        "suggestion": "Subagent finished. Check the task list for newly unblocked tasks and deploy the next builder if available."
+      }
+    ],
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-23T22:41:51.759431+00:00",
+    "event": "SubagentStop",
+    "rules_matched": 1,
+    "results": [
+      {
+        "rule": "auto-next-task",
+        "action": "suggest_next",
+        "suggestion": "Subagent finished. Check the task list for newly unblocked tasks and deploy the next builder if available."
+      }
+    ],
+    "dry_run": false
+  }
+]

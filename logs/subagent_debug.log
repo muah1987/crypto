@@ -1,0 +1,51 @@
+[2026-02-23T23:36:33.844106] === SubagentStop Hook Triggered ===
+[2026-02-23T23:36:33.844213] session_id: 54a706e7-8b8c-4017-9258-964f8e727505
+[2026-02-23T23:36:33.844276] stop_hook_active: False
+[2026-02-23T23:36:33.844330] agent_id: a894bf8
+[2026-02-23T23:36:33.844369] agent_type: 
+[2026-02-23T23:36:33.844406] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a894bf8.jsonl
+[2026-02-23T23:36:33.844444] transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl
+[2026-02-23T23:36:33.844589] === SubagentStop TTS for agent: a894bf8 ===
+[2026-02-23T23:36:33.844630] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a894bf8.jsonl
+[2026-02-23T23:36:33.844672] ANTHROPIC_API_KEY present: False
+[2026-02-23T23:36:33.844804] Extracted task_context: completed a task...
+[2026-02-23T23:36:33.844949] [SUMMARIZER] summarize_subagent_task called with: completed a task...
+[2026-02-23T23:36:33.844992] [SUMMARIZER] ERROR: ANTHROPIC_API_KEY not found!
+[2026-02-23T23:36:33.845029] Generated summary_message: Subagent task completed
+[2026-02-23T23:36:33.845205] Lock acquired, announcing: Subagent task completed
+[2026-02-23T23:36:33.893047] Lock released
+[2026-02-23T23:37:06.463908] [START] Logged SubagentStart: session_id=54a706e7-8b8c-4017-9258-964f8e727505, agent_id=a18ed9e, agent_type=Explore, permission_mode=unknown, cwd=/home/mohammed/crypto-repo
+[2026-02-23T23:38:13.403415] === SubagentStop Hook Triggered ===
+[2026-02-23T23:38:13.403493] session_id: 54a706e7-8b8c-4017-9258-964f8e727505
+[2026-02-23T23:38:13.403537] stop_hook_active: False
+[2026-02-23T23:38:13.403574] agent_id: a18ed9e
+[2026-02-23T23:38:13.403635] agent_type: Explore
+[2026-02-23T23:38:13.403683] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a18ed9e.jsonl
+[2026-02-23T23:38:13.403723] transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl
+[2026-02-23T23:38:13.403983] === SubagentStop TTS for agent: a18ed9e ===
+[2026-02-23T23:38:13.404028] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a18ed9e.jsonl
+[2026-02-23T23:38:13.404104] ANTHROPIC_API_KEY present: False
+[2026-02-23T23:38:13.404281] Extracted task_context: Explore the current setup for running crypto research. I need to understand:
+
+1. Check if there's a ...
+[2026-02-23T23:38:13.404436] [SUMMARIZER] summarize_subagent_task called with: Explore the current setup for running crypto resea...
+[2026-02-23T23:38:13.404495] [SUMMARIZER] ERROR: ANTHROPIC_API_KEY not found!
+[2026-02-23T23:38:13.404533] Generated summary_message: Subagent task completed
+[2026-02-23T23:38:13.404697] Lock acquired, announcing: Subagent task completed
+[2026-02-23T23:38:13.456768] Lock released
+[2026-02-23T23:41:51.657525] === SubagentStop Hook Triggered ===
+[2026-02-23T23:41:51.657604] session_id: 54a706e7-8b8c-4017-9258-964f8e727505
+[2026-02-23T23:41:51.657649] stop_hook_active: False
+[2026-02-23T23:41:51.657687] agent_id: a42528d
+[2026-02-23T23:41:51.657723] agent_type: 
+[2026-02-23T23:41:51.657759] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a42528d.jsonl
+[2026-02-23T23:41:51.657798] transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl
+[2026-02-23T23:41:51.658095] === SubagentStop TTS for agent: a42528d ===
+[2026-02-23T23:41:51.658141] agent_transcript_path: /home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a42528d.jsonl
+[2026-02-23T23:41:51.658186] ANTHROPIC_API_KEY present: False
+[2026-02-23T23:41:51.658573] Extracted task_context: completed a task...
+[2026-02-23T23:41:51.658755] [SUMMARIZER] summarize_subagent_task called with: completed a task...
+[2026-02-23T23:41:51.658803] [SUMMARIZER] ERROR: ANTHROPIC_API_KEY not found!
+[2026-02-23T23:41:51.658848] Generated summary_message: Subagent task completed
+[2026-02-23T23:41:51.659077] Lock acquired, announcing: Subagent task completed
+[2026-02-23T23:41:51.705387] Lock released

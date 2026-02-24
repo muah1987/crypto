@@ -1,0 +1,23 @@
+[
+  {
+    "agent_id": "a894bf8",
+    "agent_type": "",
+    "quality_score": 100,
+    "verdict": "PASS",
+    "timestamp": "2026-02-23T23:36:33.966769"
+  },
+  {
+    "agent_id": "a18ed9e",
+    "agent_type": "Explore",
+    "quality_score": 100,
+    "verdict": "PASS",
+    "timestamp": "2026-02-23T23:38:13.530386"
+  },
+  {
+    "agent_id": "a42528d",
+    "agent_type": "",
+    "quality_score": 100,
+    "verdict": "PASS",
+    "timestamp": "2026-02-23T23:41:51.777518"
+  }
+]

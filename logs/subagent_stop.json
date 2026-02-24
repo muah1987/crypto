@@ -1,0 +1,38 @@
+[
+  {
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a894bf8",
+    "agent_transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a894bf8.jsonl",
+    "agent_type": "",
+    "logged_at": "2026-02-23T23:36:33.844487"
+  },
+  {
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "plan",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a18ed9e",
+    "agent_transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a18ed9e.jsonl",
+    "agent_type": "Explore",
+    "logged_at": "2026-02-23T23:38:13.403802"
+  },
+  {
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_id": "a42528d",
+    "agent_transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505/subagents/agent-a42528d.jsonl",
+    "agent_type": "",
+    "logged_at": "2026-02-23T23:41:51.657905"
+  }
+]

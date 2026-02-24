@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2026-02-23T23:36:01.447363",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "hook_event_name": "PostToolUseFailure",
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01BhTnmoxqEYLzrL46vFfhsT",
+    "tool_input": {
+      "command": "git commit -m \"$(cat <<'EOF'\nAdd comprehensive crypto research reports (Feb 23, 2026)\n\nMulti-agent AI research across 3 model tiers (Haiku, Sonnet, Opus):\n- Market overview: Top 20 crypto by market cap with live prices\n- Emerging coin analysis: Early-stage coins with growth potential\n- Macro-crypto correlations: Fed policy, inflation, DXY impact on sectors\n- Investment plays: Risk-scored plays with entry/exit strategies\n- BLOX platform analysis: Dutch exchange coin availability (Opus run)\n- Investable coins summaries per tier\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n)\"",
+      "description": "Commit all research reports"
+    },
+    "error": "Exit code 128\nAuthor identity unknown\n\n*** Please tell me who you are.\n\nRun\n\n  git config --global user.email \"you@example.com\"\n  git config --global user.name \"Your Name\"\n\nto set your account's default identity.\nOmit --global to set the identity only in this repository.\n\nfatal: empty ident name (for <mohammed@DESKTOP-4SLPLDE.>) not allowed",
+    "is_interrupt": false,
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "acceptEdits",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "acceptEdits",
+      "hook_event_name": "PostToolUseFailure",
+      "tool_name": "Bash",
+      "tool_input": {
+        "command": "git commit -m \"$(cat <<'EOF'\nAdd comprehensive crypto research reports (Feb 23, 2026)\n\nMulti-agent AI research across 3 model tiers (Haiku, Sonnet, Opus):\n- Market overview: Top 20 crypto by market cap with live prices\n- Emerging coin analysis: Early-stage coins with growth potential\n- Macro-crypto correlations: Fed policy, inflation, DXY impact on sectors\n- Investment plays: Risk-scored plays with entry/exit strategies\n- BLOX platform analysis: Dutch exchange coin availability (Opus run)\n- Investable coins summaries per tier\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n)\"",
+        "description": "Commit all research reports"
+      },
+      "tool_use_id": "toolu_01BhTnmoxqEYLzrL46vFfhsT",
+      "error": "Exit code 128\nAuthor identity unknown\n\n*** Please tell me who you are.\n\nRun\n\n  git config --global user.email \"you@example.com\"\n  git config --global user.name \"Your Name\"\n\nto set your account's default identity.\nOmit --global to set the identity only in this repository.\n\nfatal: empty ident name (for <mohammed@DESKTOP-4SLPLDE.>) not allowed",
+      "is_interrupt": false,
+      "logged_at": "2026-02-23T23:36:01.447363"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:37:11.367451",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "hook_event_name": "PostToolUseFailure",
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01QTxfkUScUrrMiTjbzC5Via",
+    "tool_input": {
+      "command": "crontab -l 2>&1",
+      "description": "Check for existing cron jobs"
+    },
+    "error": "Exit code 1\nno crontab for mohammed",
+    "is_interrupt": false,
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "plan",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "plan",
+      "hook_event_name": "PostToolUseFailure",
+      "tool_name": "Bash",
+      "tool_input": {
+        "command": "crontab -l 2>&1",
+        "description": "Check for existing cron jobs"
+      },
+      "tool_use_id": "toolu_01QTxfkUScUrrMiTjbzC5Via",
+      "error": "Exit code 1\nno crontab for mohammed",
+      "is_interrupt": false,
+      "logged_at": "2026-02-23T23:37:11.367451"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:37:17.604321",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "hook_event_name": "PostToolUseFailure",
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_013EtfTZGcr9Q7BwEYYDWWuw",
+    "tool_input": {
+      "command": "crontab -l 2>&1",
+      "description": "Check for existing cron jobs"
+    },
+    "error": "Exit code 1\nno crontab for mohammed",
+    "is_interrupt": false,
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "plan",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "plan",
+      "hook_event_name": "PostToolUseFailure",
+      "tool_name": "Bash",
+      "tool_input": {
+        "command": "crontab -l 2>&1",
+        "description": "Check for existing cron jobs"
+      },
+      "tool_use_id": "toolu_013EtfTZGcr9Q7BwEYYDWWuw",
+      "error": "Exit code 1\nno crontab for mohammed",
+      "is_interrupt": false,
+      "logged_at": "2026-02-23T23:37:17.604321"
+    }
+  },
+  {
+    "timestamp": "2026-02-23T23:37:46.182306",
+    "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+    "hook_event_name": "PostToolUseFailure",
+    "tool_name": "Read",
+    "tool_use_id": "toolu_01BbTAGjpGZmMH7D9m1wdHkB",
+    "tool_input": {
+      "file_path": "/home/mohammed/.claude/commands/agent_prompts"
+    },
+    "error": "EISDIR: illegal operation on a directory, read '/home/mohammed/.claude/commands/agent_prompts'",
+    "is_interrupt": false,
+    "cwd": "/home/mohammed/crypto-repo",
+    "permission_mode": "plan",
+    "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+    "raw_input": {
+      "session_id": "54a706e7-8b8c-4017-9258-964f8e727505",
+      "transcript_path": "/home/mohammed/.claude/projects/-home-mohammed/54a706e7-8b8c-4017-9258-964f8e727505.jsonl",
+      "cwd": "/home/mohammed/crypto-repo",
+      "permission_mode": "plan",
+      "hook_event_name": "PostToolUseFailure",
+      "tool_name": "Read",
+      "tool_input": {
+        "file_path": "/home/mohammed/.claude/commands/agent_prompts"
+      },
+      "tool_use_id": "toolu_01BbTAGjpGZmMH7D9m1wdHkB",
+      "error": "EISDIR: illegal operation on a directory, read '/home/mohammed/.claude/commands/agent_prompts'",
+      "is_interrupt": false,
+      "logged_at": "2026-02-23T23:37:46.182306"
+    }
+  }
+]
